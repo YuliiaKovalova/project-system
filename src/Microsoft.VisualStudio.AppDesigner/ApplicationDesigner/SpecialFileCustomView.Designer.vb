@@ -48,6 +48,7 @@
             '
             resources.ApplyResources(Me.LinkLabel, "LinkLabel")
             Me.LinkLabel.Name = "LinkLabel"
+            Me.LinkLabel.DisplayFocusCues = True
             '
             'SpecialFileCustomView
             '
